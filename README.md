@@ -24,7 +24,7 @@
  
 * Setup Instructions
      1. Clone the repository
-        * git clone <your-repo-url>
+        * git clone (https://github.com/Nasriya-NF/User-Management-System-API)
         * cd user-management-api
          
      2. Install dependencies
